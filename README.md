@@ -23,8 +23,3 @@ A classe `Heroi` possui as seguintes propriedades e comportamentos:
 1. Clone este repositório para o seu computador.
 2. Navegue até a pasta do projeto no terminal.
 3. Execute o arquivo `main.js` no Node.js para ver o funcionamento do código.
-
-```bash
-git clone https://github.com/SeuUsuario/JogoHeroi.git
-cd JogoHeroi
-node main.js
